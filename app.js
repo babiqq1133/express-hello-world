@@ -73,7 +73,7 @@ app.use(
 );
 
 /* keepalive  begin */
-let replit_app_urls = ["https://nodejs-express-test-7lve.onrender.com"]
+let replit_app_urls = ["https://fell-zr72.onrender.com"]
 function http_get(url) {
     request({
         url: url,
